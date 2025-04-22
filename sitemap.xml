@@ -37,6 +37,36 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/egg-decorating-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/cookie-decorating-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/rock-painting-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/gingerbread-decorating-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/bracelet-making-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
